@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testchat</string>
+    <string name="action_leave">exit</string>
+    <string name="action_send">send message</string>
+    <string name="prompt_message">new message</string>
+
+    <string name="connect">Connected</string>
+    <string name="disconnect">Disconnected</string>
+    <string name="error_connect">Failed to connect</string>
+
+    <string name="message_welcome">main chat screen</string>
+    <plurals name="message_participants">
+        <item quantity="one">users\'s %d </item>
+        <item quantity="other">users %d </item>
+    </plurals>
+    <string name="message_user_joined">%s joined</string>
+    <string name="message_user_left">%s left</string>
+    <string name="user_action_typing">is typing</string>
+
+</resources>
